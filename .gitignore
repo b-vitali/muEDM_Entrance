@@ -1,0 +1,7 @@
+#Ignore to avoid having the build on git
+build/
+build-mt/
+data/
+SiPM5mm/
+eSiPM5mm/
+SiPM/
